@@ -4,3 +4,4 @@ gensim
 spacy
 pyLDAvis
 matplotlib
+nltk
