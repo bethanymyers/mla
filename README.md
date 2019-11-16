@@ -11,4 +11,4 @@ This repository contains code and files to analyze the annual meeting abstracts 
 `dict.txt` : the LDA dictionary. LDA will give different results every time, so reusing the same dictionary aids reproducibility.
 `model.txt` : the LDA model. LDA will give different results every time, so here is the model I used for my analysis.
 - `mla_topics.html` : a standalone version of the pyLDA visualization of the topic model from the `MLA LDA` notebook. You can view it [online](https://bethanymyers.github.io/mla/mla_topics.html)
-`mla_authors_by_state.html` : an interactive version of the U.S. map from the `MLA descriptive` notebook. This webpage opens a popup window prompting you to save the image, you can just close that window if you do not wish to download it.
+`mla_authors_by_state.html` : an interactive version of the U.S. map from the `MLA descriptive` notebook.
